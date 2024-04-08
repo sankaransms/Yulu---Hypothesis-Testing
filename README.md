@@ -1,6 +1,6 @@
 # **📃Business Case: 🟩Yulu🚴- Hypothesis Testing🧪**
 
-<img src="https://raw.githubusercontent.com/sankaransms/SQL_50_LeetCode/main/Yulu.PNG?token=GHSAT0AAAAAACQELVJ7YSYFUZYVPPGD7MEGZQTSWSQ">
+<img src="https://play-lh.googleusercontent.com/rF2CgdPoRjPMTQ5NbMJBM8dZDT-zSzEhw1AkC1riiMS_g2CUIa7QLQmqgrwys_rCbA=w1440">
 
 # **About Yulu⚡**
 
