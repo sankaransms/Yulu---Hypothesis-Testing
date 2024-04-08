@@ -1,4 +1,4 @@
-# **📃Business Case: 🟩Yulu🚴 - Hypothesis Testing🧪**   
+# **📃Business Case: 🟩Yulu🚴- Hypothesis Testing🧪**
 
 <img src="https://raw.githubusercontent.com/sankaransms/SQL_50_LeetCode/main/Yulu.PNG?token=GHSAT0AAAAAACQELVJ7YSYFUZYVPPGD7MEGZQTSWSQ">
 
